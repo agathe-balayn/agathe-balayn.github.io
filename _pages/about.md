@@ -32,4 +32,4 @@ My promotors are Alessandro Bozzon and Geert-Jan Houben, and my co-promotor is C
 
 Prior to that, I had the opportunity to work on other machine learning -related topics pertaining to the automatic detection of hate speech, the automatic translation of Japanese sign language to Japanese, and to the human-guided control of a robotic arm.
 
-I hold an MSc degree in Computer Science from the TU Delft, the Netherlands, and an engineering diploma (with its MSc degree equivalence) in Systems and Control from the ENSTA ParisTech, Institut Polytechnique de Paris, France.
+I hold an MSc degree in Computer Science from the <a href=www.tudelft.nl>TU Delft</a>, the Netherlands, and an engineering diploma (with its MSc degree equivalence) in Systems and Control from the <a href="https://www.ensta-paris.fr/en">ENSTA ParisTech</a>, Institut Polytechnique de Paris, France.
