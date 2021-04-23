@@ -1,15 +1,16 @@
 ---
 layout: page
-permalink: /teaching/
-title: Teaching
+permalink: /professional_activities/
+title: Professional activities
 description: 
 nav: true
 ---
 
-- 2019-present: ***Teaching assistant*** - TU Delft - Crowd Computing (MSc course). Responsible for grading assigments, proposing topics for literature surveys and for group projects on human-AI collaboration with crowdsourcing, and supervising students on these.
+- ***External reviewer***: HCOMP 2020, HCOMP 2021, IUI 2020, NAACL 2021
 
-- 2021: ***Project supervisor*** - TU Delft - Research project (BSc thesis project). Responsible for providing BSc thesis topics for groups of 5 BSc students, and weekly supervising the students.
+- ***Reviewer***: HyperText 2020, ROMAN 2020, ROMAN 2021, IEEE Access 2021
 
-- 2021: ***Project supervisor*** - TU Delft - Software project (second year BSc). Responsible for providing the requirements and mock-ups for an envisioned software, and weekly supervising a group of 5 BSc students to design and implement this software.
+- Member of the <a href="https://v2.nl/events/slow-reading-group-by-fellow-renee-turner">Slow Reading group</a> on AI and gender inequality. The group is a collective of artists and a computer scientist (me), whose aim is to take a critical view on AI, and organize public events around AI reflections.
 
-- 2019-now: ***Student supervision*** - TU Delft - Master thesis projects and Honours Program. Responsible for developing in collaboration with individual BSc and MSc students their topics for a thesis or the Honours Program, and weekly supervising the students until they submit their theses.
+- Inputs for journalism articles, e.g., AlgorithmWatch on <a href="https://algorithmwatch.org/en/google-vision-racism/">Google Vision API</a> and on <a href="https://algorithmwatch.org/en/computer-vision-police-discrimination/">computer vision for policing</a>; journalist blog on <a href="https://rellenvantie.com/2020/12/15/instagram-algoritmes-en-complotten/">computer vision and harms</a>.
+
