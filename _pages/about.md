@@ -20,4 +20,4 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I am a PhD candidate in Computer Science at the [Web Information Systems group][https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/] of the Faculty of Electrical Engineering, Mathematics and Computer Science, at Delft University of Technology.
+I am a PhD candidate in Computer Science at the <a href="#https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/">Web Information Systems group</a> of the Faculty of Electrical Engineering, Mathematics and Computer Science, at Delft University of Technology.
