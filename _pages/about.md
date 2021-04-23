@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I am a PhD candidate in Computer Science at the <a href="#https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/">Web Information Systems group</a> (WIS) of the Faculty of Electrical Engineering, Mathematics and Computer Science, at Delft University of Technology.
+I am a PhD candidate in Computer Science at the <a href="https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/">Web Information Systems group</a> (WIS) of the Faculty of Electrical Engineering, Mathematics and Computer Science, at Delft University of Technology.
 
 My research is focused on uncovering and understanding some of the harms that the deployment of machine learning systems into society can raise. 
 The harms that I study are related to issues of biases in the outputs of the systems, potentially resulting in safety hazards or discrimination and unfairness.
@@ -32,4 +32,4 @@ My promotors are Alessandro Bozzon and Geert-Jan Houben, and my co-promotor is C
 
 Prior to that, I had the opportunity to work on other machine learning -related topics pertaining to the automatic detection of hate speech, the automatic translation of Japanese sign language to Japanese, and to the human-guided control of a robotic arm.
 
-I hold an MSc degree in Computer Science from the <a href=www.tudelft.nl>TU Delft</a>, the Netherlands, and an engineering diploma (with its MSc degree equivalence) in Systems and Control from the <a href="https://www.ensta-paris.fr/en">ENSTA ParisTech</a>, Institut Polytechnique de Paris, France.
+I hold an MSc degree in Computer Science from the <a href="www.tudelft.nl">TU Delft</a>, the Netherlands, and an engineering diploma (with its MSc degree equivalence) in Systems and Control from the <a href="https://www.ensta-paris.fr/en">ENSTA ParisTech</a>, Institut Polytechnique de Paris, France.
