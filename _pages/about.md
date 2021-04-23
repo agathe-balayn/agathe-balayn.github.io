@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 description: Web Information Systems Group, Department of Software Technology, Faculty of Electrical Engineering, Mathematics and Computer Science, TU Delft
 
