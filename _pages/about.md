@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Web Information Systems Group, Department of Software Technology, Faculty of Electrical Engineering, Mathematics and Computer Science, TU Delft
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: AgatheBalayn_WIS.jpg
   address: >
     <p>555 your office number</p>
     <p>123 your address street</p>
