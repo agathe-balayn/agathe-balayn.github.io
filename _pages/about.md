@@ -34,4 +34,4 @@ Prior to that, I had the opportunity to work on other machine learning -related 
 
 I hold an MSc degree in Computer Science from the <a href="www.tudelft.nl">TU Delft</a>, the Netherlands, and an engineering diploma (with its MSc degree equivalence) in Systems and Control from the <a href="https://www.ensta-paris.fr/en">ENSTA ParisTech</a>, Institut Polytechnique de Paris, France.
 
-You can find my CV <a href="agathe-balayn.github.io/assets/pdf/Curriculum_Vitae_v2.pdf" target="_blank">here.</a>
+You can find my CV [here]({{site.url}}/assets/pdf/Curriculum_Vitae_v2.pdf) <a href="agathe-balayn.github.io/assets/pdf/Curriculum_Vitae_v2.pdf" target="_blank">here.</a>
